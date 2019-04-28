@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.msl.cache</groupId>
-	<artifactId>spring-data-simple-cache</artifactId>
+	<artifactId>spring-cache-caffeine</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-data-simple-cache</name>
+	<name>spring-cache-caffeine</name>
 	<description>Cache project</description>
 
 	<parent>
